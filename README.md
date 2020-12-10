@@ -2,6 +2,4 @@
 
 Use this link below to add Honey to the allowlist for Adblock, Adblock Plus, or uBlock Origin
 
-Adblock may require a refresh when the new tab loads.
-
-AdBlock Plus and uBlock Origin: [Click Here](https://subscribe.adblockplus.org/?location=https://www.joinhoney.com/whitelist/honey-smart-shopping.txt&title=Honey-Smart-Shopping)
+Easy Click To White-List: [Click Here](https://subscribe.adblockplus.org/?location=https://www.joinhoney.com/whitelist/honey-smart-shopping.txt&title=Honey-Smart-Shopping)
